@@ -1,4 +1,6 @@
-### Hola, soy Manuela 👋:relaxed::computer:
+# Hola, soy Manuela 👋:relaxed::computer:
+
+### Después de una trayectoria laboral en el mundo comercial, he encontrado en la programación mi pasión y donde quiero crecer y centrar todas mis energías. He cursado un Bootcamp en 4Geeks Academy, ha sido toda una aventura, y he podido aprender muchas herramientas para ser una gran profesional. Ahora lo que busco es un proyecto donde comprometerme y dar lo mejor de mí, mejorando y aportando día a día. 
 
 ```javascript
 const manu = {

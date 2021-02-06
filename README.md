@@ -11,3 +11,8 @@ const manu = {
                       }
 }
 ```
+
+Puedes encontrarme:computer:
+- [Blog](https://manuelaneufeld.medium.com/)
+- [LinkedIn](https://www.linkedin.com/in/manuela-neufeld/)
+- [Twitter](https://twitter.com/ManuelaNeufeld)

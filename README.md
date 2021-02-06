@@ -1,4 +1,4 @@
-### Hola, soy Manuela 👋:relaxed:
+### Hola, soy Manuela 👋:relaxed::computer:
 
 ```javascript
 const manu = {
@@ -12,7 +12,7 @@ const manu = {
 }
 ```
 
-Puedes encontrarme:computer:
+Puedes encontrarme:globe_with_meridians:
 - [Blog](https://manuelaneufeld.medium.com/)
 - [LinkedIn](https://www.linkedin.com/in/manuela-neufeld/)
 - [Twitter](https://twitter.com/ManuelaNeufeld)

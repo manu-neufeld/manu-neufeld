@@ -18,6 +18,7 @@ const manu = {
 ## My GitHub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manu-neufeld&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manu-neufeld&theme=tokyonight)
 
 Puedes encontrarme:globe_with_meridians:
 - [Blog](https://manuelaneufeld.medium.com/)

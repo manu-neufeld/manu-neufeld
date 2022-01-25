@@ -5,7 +5,7 @@
 ```javascript
 const manu = {
   pronouns: "she" | "her",
-  code: [Javascript, ReactJS, HTML, CSS, Python, Flask, SQLAlchemy]
+  code: [Javascript, Angular, HTML, CSS, Typescrit]
   passions: {
                         writing: "Review blog",
                         lifestyle: "Yoga",
